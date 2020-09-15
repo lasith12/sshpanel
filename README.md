@@ -1,2 +1,0 @@
-# sshpanel
-Sssh panek
