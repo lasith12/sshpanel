@@ -1,1 +1,2 @@
-Ff
+
+# Directory for dns plugin scripts
